@@ -1,3 +1,3 @@
 # computational_math
 
-there is code from computational mathematics classes in MIPT
+These are laboratory works on computational mathematics at MIPT
